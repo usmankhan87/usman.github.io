@@ -1,2 +1,2 @@
 # usman.github.io
-prac 2
+my first git hub project
